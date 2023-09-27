@@ -1,4 +1,0 @@
-Avira/
-backend/
-frontend/
-mydir.txt
